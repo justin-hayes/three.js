@@ -4,7 +4,7 @@
  */
 /* global QUnit */
 
-import { Box2 } from '../../../../src/math/Box2';
+import Box2  from '../../../../src/math/Box2';
 import { Vector2 } from '../../../../src/math/Vector2';
 import {
 	negInf2,
